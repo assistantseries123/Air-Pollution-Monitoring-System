@@ -1,2 +1,2 @@
-# Air-Pollution-Monitoring-System
-Arduino Code on Air Pollution Monitoring System by using C++.
+# Air-Pollution-Monitoring-Syste
+Project on Air Pollution Monitoring System by using C++
